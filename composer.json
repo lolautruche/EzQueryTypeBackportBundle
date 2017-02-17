@@ -1,0 +1,20 @@
+{
+    "name": "lolautruche/ez-querytype-backport-bundle",
+    "description": "Backport of QueryType feature to eZ Publish 5.4",
+    "require": {
+        "ezsystems/ezpublish-kernel": "^5.4.0||>=2014.11.0"
+    },
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Jerome Vieilledent",
+            "email": "lolautruche@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "eZ\\Publish\\Core\\QueryType\\": "QueryType/",
+            "Lolautruche\\EzQueryTypeBackportBundle\\": ""
+        }
+    }
+}

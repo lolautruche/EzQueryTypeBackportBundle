@@ -1,0 +1,4 @@
+services:
+#    lolautruche_ez_query_type_backport.example:
+#        class: Lolautruche\EzQueryTypeBackportBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
