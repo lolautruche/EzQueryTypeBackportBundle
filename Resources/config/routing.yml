@@ -1,3 +1,0 @@
-lolautruche_ez_query_type_backport_homepage:
-    path:     /
-    defaults: { _controller: LolautrucheEzQueryTypeBackportBundle:Default:index }
