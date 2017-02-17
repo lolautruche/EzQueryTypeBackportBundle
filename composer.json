@@ -13,8 +13,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "eZ\\Publish\\Core\\QueryType\\": "QueryType/",
-            "Lolautruche\\EzQueryTypeBackportBundle\\": ""
+            "eZ\\Publish\\Core\\QueryType\\": "backport/QueryType/",
+            "Lolautruche\\EzQueryTypeBackportBundle\\": "bundle/"
         }
     }
 }
